@@ -1,0 +1,207 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "16n-4J-5lC"; */
+"16n-4J-5lC.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "DestinationViewController"; ObjectID = "2AF-Vy-BCa"; */
+"2AF-Vy-BCa.title" = "DestinationViewController";
+
+/* Class = "UIButton"; normalTitle = "forgot your password"; ObjectID = "3fT-2u-kYc"; */
+"3fT-2u-kYc.normalTitle" = "فراموشی رمز عبور";
+
+/* Class = "UITextField"; placeholder = "phone number"; ObjectID = "59o-WJ-q1x"; */
+"59o-WJ-q1x.placeholder" = "شماره موبایل";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "7nB-oj-EGd"; */
+"7nB-oj-EGd.title" = "عنوان";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bnh-qc-hSe"; */
+"Bnh-qc-hSe.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "LogIn"; ObjectID = "GE8-Uc-UwE"; */
+"GE8-Uc-UwE.title" = "ورود";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GER-Fv-ZTC"; */
+"GER-Fv-ZTC.text" = "Label";
+
+/* Class = "UIViewController"; title = "DestinationViewController"; ObjectID = "I6E-PS-Oyc"; */
+"I6E-PS-Oyc.title" = "DestinationViewController";
+
+/* Class = "UIButton"; normalTitle = "verify via sms"; ObjectID = "IhE-Jt-zbo"; */
+"IhE-Jt-zbo.normalTitle" = "تایید با پیامک";
+
+/* Class = "UINavigationItem"; title = "TRIP's"; ObjectID = "JOb-mk-EZV"; */
+"JOb-mk-EZV.title" = "سفرها";
+
+/* Class = "UILabel"; text = "only with trusted's"; ObjectID = "Jn6-n9-ALq"; */
+"Jn6-n9-ALq.text" = "فقط با شناخته شده";
+
+/* Class = "UILabel"; text = "maxACC"; ObjectID = "L2N-R5-x7W"; */
+"L2N-R5-x7W.text" = "دقت بالا";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Lal-Wk-VkK"; */
+"Lal-Wk-VkK.normalTitle" = "ثبت";
+
+/* Class = "UINavigationItem"; title = "SOURCE"; ObjectID = "Lwr-wl-ZV7"; */
+"Lwr-wl-ZV7.title" = "مبدا";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MJx-AT-66b"; */
+"MJx-AT-66b.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Messages"; ObjectID = "Np6-Bf-fPM"; */
+"Np6-Bf-fPM.title" = "پیامها";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ork-hi-MDx"; */
+"Ork-hi-MDx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "PC3-oq-2uW"; */
+"PC3-oq-2uW.normalTitle" = "ثبت";
+
+/* Class = "UITextField"; placeholder = "pin"; ObjectID = "Qmh-lZ-35U"; */
+"Qmh-lZ-35U.placeholder" = "کد";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "RMj-tq-fjk"; */
+"RMj-tq-fjk.normalTitle" = "ثبت";
+
+/* Class = "UITabBarItem"; title = "Accont"; ObjectID = "Rv7-OI-Zc5"; */
+"Rv7-OI-Zc5.title" = "کاربر";
+
+/* Class = "UINavigationItem"; title = "Guide & Term of use"; ObjectID = "S7H-VG-QTl"; */
+"S7H-VG-QTl.title" = "راهنما و شرایط استفاده";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SX1-Y4-SRi"; */
+"SX1-Y4-SRi.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Tyt-7e-3vE"; */
+"Tyt-7e-3vE.normalTitle" = "ثبت";
+
+/* Class = "UIBarButtonItem"; title = "Destination"; ObjectID = "U5l-tg-Ytu"; */
+"U5l-tg-Ytu.title" = "مقصد";
+
+/* Class = "UIViewController"; title = "DestinationViewController"; ObjectID = "UBS-JD-lZc"; */
+"UBS-JD-lZc.title" = "DestinationViewController";
+
+/* Class = "UILabel"; text = "maxACC"; ObjectID = "WHt-6N-GWb"; */
+"WHt-6N-GWb.text" = "حداکثر دقت";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "WQF-cm-43X"; */
+"WQF-cm-43X.title" = "بیشتر";
+
+/* Class = "UILabel"; text = "travel with same gender"; ObjectID = "WRa-Ov-hVq"; */
+"WRa-Ov-hVq.text" = "فقط همجنس من";
+
+/* Class = "UILabel"; text = "maxACC"; ObjectID = "Zgw-pa-1L6"; */
+"Zgw-pa-1L6.text" = "حداکثر دقت";
+
+/* Class = "UILabel"; text = "travel with same gender"; ObjectID = "aAl-7C-Xrb"; */
+"aAl-7C-Xrb.text" = "فقط همجنس من";
+
+/* Class = "UITabBarItem"; title = "Trips"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "سفرها";
+
+/* Class = "UILabel"; text = "NONsmoker"; ObjectID = "bst-z9-LSf"; */
+"bst-z9-LSf.text" = "غیر سیگاری";
+
+/* Class = "UILabel"; text = "minACC"; ObjectID = "c8H-4r-gAF"; */
+"c8H-4r-gAF.text" = "دقت کمتر";
+
+/* Class = "UITabBarItem"; title = "Messages"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "پیامها";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "d4o-T7-HaL"; */
+"d4o-T7-HaL.normalTitle" = "ثبت";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dF6-ba-pQ0"; */
+"dF6-ba-pQ0.normalTitle" = "ثبت";
+
+/* Class = "UILabel"; text = "only with trusted's"; ObjectID = "e72-uV-1uR"; */
+"e72-uV-1uR.text" = "فقط باشناخته شده";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "eet-V5-ON2"; */
+"eet-V5-ON2.normalTitle" = "ویرایش";
+
+/* Class = "UILabel"; text = "minACC"; ObjectID = "fOV-du-5Rd"; */
+"fOV-du-5Rd.text" = "حداقل دقت";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "hTD-3g-zl5"; */
+"hTD-3g-zl5.normalTitle" = "ثبت";
+
+/* Class = "UINavigationItem"; title = "DESTINATION"; ObjectID = "hjl-jy-kdb"; */
+"hjl-jy-kdb.title" = "مقصد";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "itQ-ci-ay1"; */
+"itQ-ci-ay1.normalTitle" = "ثبت";
+
+/* Class = "UILabel"; text = "only with trusted's"; ObjectID = "jhm-9u-oPr"; */
+"jhm-9u-oPr.text" = "فقط با شناخته شده";
+
+/* Class = "UINavigationItem"; title = "SOURCE"; ObjectID = "lN4-ir-hoc"; */
+"lN4-ir-hoc.title" = "مبدا";
+
+/* Class = "UIViewController"; title = "OPTIONS"; ObjectID = "lTy-46-VIl"; */
+"lTy-46-VIl.title" = "تنظیمات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ldb-uI-bD7"; */
+"ldb-uI-bD7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lqS-Cd-tXK"; */
+"lqS-Cd-tXK.text" = "Label";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "n3r-dL-c7A"; */
+"n3r-dL-c7A.text" = "نمره";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nVF-H4-NNN"; */
+"nVF-H4-NNN.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "DESTINATION"; ObjectID = "o9Q-mE-uil"; */
+"o9Q-mE-uil.title" = "مقصد";
+
+/* Class = "UILabel"; text = "travel with same gender"; ObjectID = "oPO-FQ-sKW"; */
+"oPO-FQ-sKW.text" = "همجنس من";
+
+/* Class = "UIViewController"; title = "OPTIONS"; ObjectID = "oab-7a-9Ov"; */
+"oab-7a-9Ov.title" = "تنظیمات";
+
+/* Class = "UINavigationItem"; title = "SOURCE"; ObjectID = "ogD-9j-D6n"; */
+"ogD-9j-D6n.title" = "مبدا";
+
+/* Class = "UIViewController"; title = "OPTIONS"; ObjectID = "oqR-mt-dcb"; */
+"oqR-mt-dcb.title" = "تنظیمات";
+
+/* Class = "UITextField"; placeholder = "phone number"; ObjectID = "pG7-0k-j6A"; */
+"pG7-0k-j6A.placeholder" = "موبایل";
+
+/* Class = "UIButton"; normalTitle = "SignUp"; ObjectID = "qI7-Xs-NLF"; */
+"qI7-Xs-NLF.normalTitle" = "ثبت نام";
+
+/* Class = "UILabel"; text = "minACC"; ObjectID = "rDO-mW-2K7"; */
+"rDO-mW-2K7.text" = "حداقل دقت";
+
+/* Class = "UIButton"; normalTitle = "SignIn"; ObjectID = "rYz-fB-moj"; */
+"rYz-fB-moj.normalTitle" = "ورود";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "rlI-bx-ba2"; */
+"rlI-bx-ba2.normalTitle" = "ثبت";
+
+/* Class = "UITextField"; placeholder = "name"; ObjectID = "t8R-N5-Pyg"; */
+"t8R-N5-Pyg.placeholder" = "نام";
+
+/* Class = "UILabel"; text = "NONsmoker"; ObjectID = "tAZ-in-Jko"; */
+"tAZ-in-Jko.text" = "غیر سیگاری";
+
+/* Class = "UITextField"; placeholder = "pin "; ObjectID = "ubG-uy-hoR"; */
+"ubG-uy-hoR.placeholder" = "کد";
+
+/* Class = "UINavigationItem"; title = "DESTINATION"; ObjectID = "w6R-V6-glO"; */
+"w6R-V6-glO.title" = "مقصد";
+
+/* Class = "UITextField"; placeholder = "phone number"; ObjectID = "xCw-6H-XfI"; */
+"xCw-6H-XfI.placeholder" = "موبایل";
+
+/* Class = "UIButton"; normalTitle = "signup"; ObjectID = "xyi-Kr-e3S"; */
+"xyi-Kr-e3S.normalTitle" = "ثبت نام" ;
+
+/* Class = "UILabel"; text = "NONsmoker"; ObjectID = "zm0-46-fDX"; */
+"zm0-46-fDX.text" = "غیر سیگاری";
+
+/* Class = "UIButton"; normalTitle = "become wellknown"; ObjectID = "zpM-yn-Fl5"; */
+"zpM-yn-Fl5.normalTitle" = "تبدیل به شناخته شده";
